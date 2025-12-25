@@ -1,0 +1,7 @@
+{
+  "name": "SnapExtract AI",
+  "description": "Universal technical information extractor from screenshots. Supports code, AI tools, social channels, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
